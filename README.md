@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clementmw&label=Profile%20views&color=0e75b6&style=flat" alt="clementmw" /> </p>
 
+# 💫 About Me:
+🔭 I’m currently working on Flask <br>👯 I’m looking to collaborate on Open Source<br>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
