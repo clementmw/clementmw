@@ -16,11 +16,13 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=clementmw&theme=nord&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=clementmw&theme=nord&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=clementmw&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=clementmw&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact) </br>
+![](https://github-contributor-stats.vercel.app/api?username=clementmw&limit=5&theme=apprentice&combine_all_yearly_contributions=true) 
 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=clementmw&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 
 
