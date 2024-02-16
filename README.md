@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Clement Macharia</h1>
 <h3 align="center">A passionate Software Developer from Nairobi, Kenya</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=clementmw&label=Profile%20views&color=0e75b6&style=flat" alt="clementmw" /> </p>
+[![](https://visitcount.itsvg.in/api?id=clementmw&icon=8&color=12)](https://visitcount.itsvg.in)
 
 
 # 💫 About Me:
@@ -31,13 +31,11 @@
 
 
 
----
-[![](https://visitcount.itsvg.in/api?id=clementmw&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=clementmw&icon=8&color=12)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
