@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working on: <a href="https://www.msaadafund.com/">Msaada Fund</a> <br>👯 I’m looking to collaborate on: Open Source<br> 
-💬 Ask me about: React,Flask,Python,Javascript,Tailwind,Bootstrap
+💬 Ask me about: Python,Java,Django,Flask,Javascript,React,Tailwind,Bootstrap
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
